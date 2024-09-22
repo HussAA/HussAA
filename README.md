@@ -16,6 +16,12 @@
 
 ###
 
+<h2 align="left">🌍 About Me</h2>
+
+###
+
+<br clear="both">
+
 <p align="left">During my I'T program, I discovered a passion for web development, which led me to specialize in React. Since<br>then, I have dedicated myself to becoming a skilled web developer by creating multiple websites and expanding<br>my knowledge through online courses. I have always been able to adapt myself to whatever I put my mind to.</p>
 
 ###
